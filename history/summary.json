@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 96,
-    "timeDay": 96,
-    "timeWeek": 96,
-    "timeMonth": 96,
-    "timeYear": 96,
+    "time": 98,
+    "timeDay": 98,
+    "timeWeek": 98,
+    "timeMonth": 98,
+    "timeYear": 98,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 5089,
-    "timeDay": 5089,
-    "timeWeek": 5089,
-    "timeMonth": 5089,
-    "timeYear": 5089,
+    "time": 4907,
+    "timeDay": 4907,
+    "timeWeek": 4907,
+    "timeMonth": 4907,
+    "timeYear": 4907,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 975,
-    "timeDay": 975,
-    "timeWeek": 975,
-    "timeMonth": 975,
-    "timeYear": 975,
+    "time": 957,
+    "timeDay": 957,
+    "timeWeek": 957,
+    "timeMonth": 957,
+    "timeYear": 957,
     "dailyMinutesDown": {}
   },
   {
@@ -64,17 +64,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 5173,
-    "timeDay": 5173,
-    "timeWeek": 5173,
-    "timeMonth": 5173,
-    "timeYear": 5173,
+    "time": 5228,
+    "timeDay": 5228,
+    "timeWeek": 5228,
+    "timeMonth": 5228,
+    "timeYear": 5228,
     "dailyMinutesDown": {}
   },
   {
     "name": "K-Jet",
-    "url": "https://k-jet.fr",
-    "icon": "https://favicons.githubusercontent.com/k-jet.fr",
+    "url": "https://k\\-jet.fr",
+    "icon": "https://favicons.githubusercontent.com/k",
     "slug": "k-jet",
     "status": "down",
     "uptime": "0.05%",
@@ -88,7 +88,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-04-28": 69
+      "2021-04-28": 73
     }
   },
   {
@@ -102,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2229,
-    "timeDay": 2229,
-    "timeWeek": 2229,
-    "timeMonth": 2229,
-    "timeYear": 2229,
+    "time": 2151,
+    "timeDay": 2151,
+    "timeWeek": 2151,
+    "timeMonth": 2151,
+    "timeYear": 2151,
     "dailyMinutesDown": {}
   },
   {
@@ -120,11 +120,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 740,
-    "timeDay": 740,
-    "timeWeek": 740,
-    "timeMonth": 740,
-    "timeYear": 740,
+    "time": 725,
+    "timeDay": 725,
+    "timeWeek": 725,
+    "timeMonth": 725,
+    "timeYear": 725,
     "dailyMinutesDown": {}
   },
   {
@@ -138,11 +138,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 4113,
-    "timeDay": 4113,
-    "timeWeek": 4113,
-    "timeMonth": 4113,
-    "timeYear": 4113,
+    "time": 4032,
+    "timeDay": 4032,
+    "timeWeek": 4032,
+    "timeMonth": 4032,
+    "timeYear": 4032,
     "dailyMinutesDown": {}
   },
   {
@@ -156,11 +156,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2510,
-    "timeDay": 2510,
-    "timeWeek": 2510,
-    "timeMonth": 2510,
-    "timeYear": 2510,
+    "time": 2413,
+    "timeDay": 2413,
+    "timeWeek": 2413,
+    "timeMonth": 2413,
+    "timeYear": 2413,
     "dailyMinutesDown": {}
   },
   {
@@ -174,11 +174,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1068,
-    "timeDay": 1068,
-    "timeWeek": 1068,
-    "timeMonth": 1068,
-    "timeYear": 1068,
+    "time": 1074,
+    "timeDay": 1074,
+    "timeWeek": 1074,
+    "timeMonth": 1074,
+    "timeYear": 1074,
     "dailyMinutesDown": {}
   },
   {
@@ -192,11 +192,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 5988,
-    "timeDay": 5988,
-    "timeWeek": 5988,
-    "timeMonth": 5988,
-    "timeYear": 5988,
+    "time": 5824,
+    "timeDay": 5824,
+    "timeWeek": 5824,
+    "timeMonth": 5824,
+    "timeYear": 5824,
     "dailyMinutesDown": {}
   }
 ]
