@@ -10,19 +10,20 @@ sites:
   - name: SCOP276
     url: https://www.scop276.coop
   - name: Les Corbeilles de Claude
-    url: $https://les-corbeilles-de-claude.com
+    url: https://les-corbeilles-de-claude.com
   - name: K-Jet
     url: https://k-jet.fr
+    maxResponseTime: 15000
   - name: AceHoliday
-    url: $https://aceholiday.co.uk 
+    url: https://aceholiday.co.uk 
   - name: collectedememoire    
-    url: $http://www.collectedememoire.com
+    url: http://www.collectedememoire.com
   - name: flashform
     url: https://flashform.fr
   - name: kuriosity Club
     url: https://kuriosity-club.fr
   - name: Cloud Asip
-    url: $https://cloud.asip10.fr
+    url: https://cloud.asip10.fr
   - name: Rue de la colloc
     url: https://ruedelacoloc.fr
     
