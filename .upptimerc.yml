@@ -12,8 +12,9 @@ sites:
   - name: Les Corbeilles de Claude
     url: https://les-corbeilles-de-claude.com
   - name: K-Jet
-    url: https://k\-jet.fr
-    maxResponseTime: 15000
+    url: https://k-jet.fr
+    __dangerous__disable_verify_peer: true
+    __dangerous__disable_verify_host: true
   - name: AceHoliday
     url: https://aceholiday.co.uk 
   - name: collectedememoire    
