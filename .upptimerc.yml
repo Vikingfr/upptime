@@ -3,30 +3,30 @@ owner: Vikingfr # Your GitHub organization or username, where this repository li
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google (to check system)
-    url: https://www.google.com
   - name: ASIP
     url: https://asip10.fr
   - name: SCOP276
-    url: https://www.scop276.coop
+    url: $SCOP276
   - name: Les Corbeilles de Claude
-    url: https://les-corbeilles-de-claude.com
+    url: $CORBEILLES
   - name: K-Jet
-    url: https://k-jet.fr
+    url: $KJET
     __dangerous__disable_verify_peer: true
     __dangerous__disable_verify_host: true
   - name: AceHoliday
-    url: https://aceholiday.co.uk 
+    url: $ACEHOLIDAY 
   - name: collectedememoire    
-    url: http://www.collectedememoire.com
+    url: $COLLECTEDEMEMOIRE
   - name: flashform
-    url: https://flashform.fr
+    url: $FLASHFORM
   - name: kuriosity Club
-    url: https://kuriosity-club.fr
+    url: $KURIOSITY
   - name: Cloud Asip
-    url: https://cloud.asip10.fr
-  - name: Rue de la colloc
-    url: https://ruedelacoloc.fr
+    url: $CLOUDASIP
+  - name: Rue de la coloc
+    url: $COLOC
+  - name: Google (to check system)
+    url: https://www.google.com
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
