@@ -1,7 +1,7 @@
 url: $COLOC
-status: up
+status: degraded
 code: 200
-responseTime: 13934
-lastUpdated: 2021-05-01T04:05:23.661Z
+responseTime: 5305
+lastUpdated: 2021-05-01T23:25:40.302Z
 startTime: Wed Apr 28 2021 10:44:16 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
