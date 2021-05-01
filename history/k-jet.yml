@@ -1,7 +1,7 @@
 url: $KJET
-status: up
+status: degraded
 code: 200
-responseTime: 19814
-lastUpdated: 2021-04-30T23:15:38.384Z
+responseTime: 19930
+lastUpdated: 2021-05-01T23:24:01.085Z
 startTime: Wed Apr 28 2021 08:57:19 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
