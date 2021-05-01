@@ -5,26 +5,36 @@ repo: upptime # The name of this repository
 sites:
   - name: ASIP
     url: https://asip10.fr
+    maxResponseTime: 5000
   - name: SCOP276
     url: $SCOP276
+    maxResponseTime: 5000
   - name: Les Corbeilles de Claude
     url: $CORBEILLES
+    maxResponseTime: 5000
   - name: K-Jet
     url: $KJET
     __dangerous__disable_verify_peer: true
     __dangerous__disable_verify_host: true
+    maxResponseTime: 5000
   - name: AceHoliday
     url: $ACEHOLIDAY 
+    maxResponseTime: 5000
   - name: collectedememoire    
     url: $COLLECTEDEMEMOIRE
+    maxResponseTime: 5000
   - name: flashform
     url: $FLASHFORM
+    maxResponseTime: 5000
   - name: kuriosity Club
     url: $KURIOSITY
+    maxResponseTime: 5000
   - name: Cloud Asip
     url: $CLOUDASIP
+    maxResponseTime: 5000
   - name: Rue de la coloc
     url: $COLOC
+    maxResponseTime: 5000
   - name: Google (to check system)
     url: https://www.google.com
     
