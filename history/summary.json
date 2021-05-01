@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/asip10.fr",
     "slug": "asip",
     "status": "degraded",
-    "uptime": "99.92%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
+    "uptime": "99.91%",
+    "uptimeDay": "99.68%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
     "time": 8142,
     "timeDay": 15112,
     "timeWeek": 8142,
     "timeMonth": 8142,
     "timeYear": 8142,
     "dailyMinutesDown": {
-      "2021-05-01": 4
+      "2021-05-01": 5
     }
   },
   {
@@ -54,7 +54,7 @@
     "timeMonth": 7518,
     "timeYear": 7518,
     "dailyMinutesDown": {
-      "2021-05-01": 222,
+      "2021-05-01": 223,
       "2021-04-30": 244,
       "2021-04-29": 186,
       "2021-04-28": 42
@@ -67,7 +67,7 @@
     "slug": "k-jet",
     "status": "degraded",
     "uptime": "98.52%",
-    "uptimeDay": "99.88%",
+    "uptimeDay": "99.87%",
     "uptimeWeek": "98.52%",
     "uptimeMonth": "98.52%",
     "uptimeYear": "98.52%",
@@ -123,11 +123,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "flashform",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.98%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 6738,
     "timeDay": 0,
     "timeWeek": 6738,
@@ -190,7 +190,7 @@
     "timeMonth": 11891,
     "timeYear": 11891,
     "dailyMinutesDown": {
-      "2021-05-01": 74,
+      "2021-05-01": 75,
       "2021-04-30": 195,
       "2021-04-29": 107,
       "2021-04-28": 39
