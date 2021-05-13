@@ -11,7 +11,7 @@ sites:
     maxResponseTime: 35000
   - name: Les Corbeilles de Claude
     url: $CORBEILLES
-    maxResponseTime: 35000
+    maxResponseTime: 350000
   - name: K-Jet
     url: $KJET
     __dangerous__disable_verify_peer: true
@@ -28,7 +28,7 @@ sites:
     maxResponseTime: 35000
   - name: kuriosity Club
     url: $KURIOSITY
-    maxResponseTime: 35000
+    maxResponseTime: 350000
   - name: Cloud Asip
     url: $CLOUDASIP
     maxResponseTime: 35000
