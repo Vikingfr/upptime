@@ -13,7 +13,7 @@
     "time": 7574,
     "timeDay": 9100,
     "timeWeek": 7290,
-    "timeMonth": 5778,
+    "timeMonth": 5842,
     "timeYear": 7574,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 1485,
     "timeDay": 1194,
     "timeWeek": 1408,
-    "timeMonth": 1417,
+    "timeMonth": 1428,
     "timeYear": 1485,
     "dailyMinutesDown": {
       "2021-06-30": 20,
@@ -43,19 +43,19 @@
     "url": "$CORBEILLES",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "les-corbeilles-de-claude",
-    "status": "up",
-    "uptime": "95.92%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "95.92%",
+    "status": "down",
+    "uptime": "95.93%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "95.93%",
     "time": 9326,
     "timeDay": 27621,
     "timeWeek": 24432,
-    "timeMonth": 12635,
+    "timeMonth": 12918,
     "timeYear": 9326,
     "dailyMinutesDown": {
-      "2021-07-04": 13,
+      "2021-07-04": 2,
       "2021-05-16": 176,
       "2021-05-15": 167,
       "2021-05-14": 242,
@@ -91,7 +91,7 @@
     "time": 9122,
     "timeDay": 9753,
     "timeWeek": 7988,
-    "timeMonth": 6017,
+    "timeMonth": 6034,
     "timeYear": 9122,
     "dailyMinutesDown": {
       "2021-04-28": 75
@@ -111,7 +111,7 @@
     "time": 4330,
     "timeDay": 5385,
     "timeWeek": 3976,
-    "timeMonth": 3581,
+    "timeMonth": 3640,
     "timeYear": 4330,
     "dailyMinutesDown": {}
   },
@@ -129,7 +129,7 @@
     "time": 1760,
     "timeDay": 2081,
     "timeWeek": 1411,
-    "timeMonth": 1567,
+    "timeMonth": 1583,
     "timeYear": 1760,
     "dailyMinutesDown": {
       "2021-05-09": 19,
@@ -152,7 +152,7 @@
     "time": 7048,
     "timeDay": 8516,
     "timeWeek": 6953,
-    "timeMonth": 5818,
+    "timeMonth": 5870,
     "timeYear": 7048,
     "dailyMinutesDown": {}
   },
@@ -170,7 +170,7 @@
     "time": 4897,
     "timeDay": 5181,
     "timeWeek": 4528,
-    "timeMonth": 4925,
+    "timeMonth": 5027,
     "timeYear": 4897,
     "dailyMinutesDown": {
       "2021-05-11": 1315,
@@ -200,7 +200,7 @@
     "time": 3085,
     "timeDay": 3396,
     "timeWeek": 2931,
-    "timeMonth": 2279,
+    "timeMonth": 2307,
     "timeYear": 3085,
     "dailyMinutesDown": {
       "2021-05-16": 69,
@@ -231,7 +231,7 @@
     "time": 9540,
     "timeDay": 25922,
     "timeWeek": 15148,
-    "timeMonth": 9214,
+    "timeMonth": 9376,
     "timeYear": 9540,
     "dailyMinutesDown": {
       "2021-05-16": 111,
