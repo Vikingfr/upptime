@@ -13,7 +13,7 @@
     "time": 7585,
     "timeDay": 9402,
     "timeWeek": 7662,
-    "timeMonth": 6225,
+    "timeMonth": 6321,
     "timeYear": 7585,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 1470,
     "timeDay": 1198,
     "timeWeek": 1287,
-    "timeMonth": 1411,
+    "timeMonth": 1369,
     "timeYear": 1470,
     "dailyMinutesDown": {
       "2021-06-30": 20,
@@ -52,7 +52,7 @@
     "time": 9558,
     "timeDay": 4797,
     "timeWeek": 20358,
-    "timeMonth": 13826,
+    "timeMonth": 13930,
     "timeYear": 9558,
     "dailyMinutesDown": {
       "2021-07-05": 18,
@@ -92,7 +92,7 @@
     "time": 9119,
     "timeDay": 10405,
     "timeWeek": 8577,
-    "timeMonth": 6448,
+    "timeMonth": 6465,
     "timeYear": 9119,
     "dailyMinutesDown": {
       "2021-04-28": 75
@@ -112,7 +112,7 @@
     "time": 4329,
     "timeDay": 4395,
     "timeWeek": 4176,
-    "timeMonth": 3806,
+    "timeMonth": 3857,
     "timeYear": 4329,
     "dailyMinutesDown": {}
   },
@@ -130,7 +130,7 @@
     "time": 1713,
     "timeDay": 1199,
     "timeWeek": 1336,
-    "timeMonth": 1527,
+    "timeMonth": 1543,
     "timeYear": 1713,
     "dailyMinutesDown": {
       "2021-07-07": 15,
@@ -154,7 +154,7 @@
     "time": 7001,
     "timeDay": 3108,
     "timeWeek": 6802,
-    "timeMonth": 5964,
+    "timeMonth": 5994,
     "timeYear": 7001,
     "dailyMinutesDown": {}
   },
@@ -164,15 +164,15 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "kuriosity-club",
     "status": "up",
-    "uptime": "85.93%",
+    "uptime": "85.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "85.93%",
+    "uptimeYear": "85.94%",
     "time": 4904,
     "timeDay": 4125,
     "timeWeek": 4934,
-    "timeMonth": 5147,
+    "timeMonth": 5211,
     "timeYear": 4904,
     "dailyMinutesDown": {
       "2021-05-11": 1315,
@@ -202,7 +202,7 @@
     "time": 3074,
     "timeDay": 1586,
     "timeWeek": 2992,
-    "timeMonth": 2404,
+    "timeMonth": 2417,
     "timeYear": 3074,
     "dailyMinutesDown": {
       "2021-05-16": 69,
@@ -225,15 +225,15 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "rue-de-la-coloc",
     "status": "up",
-    "uptime": "96.97%",
+    "uptime": "96.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.97%",
+    "uptimeYear": "96.98%",
     "time": 9646,
     "timeDay": 8053,
     "timeWeek": 17691,
-    "timeMonth": 10040,
+    "timeMonth": 10052,
     "timeYear": 9646,
     "dailyMinutesDown": {
       "2021-05-16": 111,
@@ -271,7 +271,7 @@
     "time": 120,
     "timeDay": 75,
     "timeWeek": 107,
-    "timeMonth": 133,
+    "timeMonth": 134,
     "timeYear": 120,
     "dailyMinutesDown": {}
   }
