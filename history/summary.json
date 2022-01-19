@@ -64,11 +64,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "les-corbeilles-de-claude",
     "status": "up",
-    "uptime": "97.55%",
+    "uptime": "97.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.55%",
+    "uptimeYear": "97.56%",
     "time": 11513,
     "timeDay": 3980,
     "timeWeek": 4452,
@@ -353,17 +353,19 @@
     "url": "https://www.google.com",
     "icon": "https://favicons.githubusercontent.com/www.google.com",
     "slug": "google-to-check-system",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 160,
-    "timeDay": 81,
-    "timeWeek": 132,
-    "timeMonth": 122,
-    "timeYear": 160,
-    "dailyMinutesDown": {}
+    "time": 161,
+    "timeDay": 276,
+    "timeWeek": 174,
+    "timeMonth": 133,
+    "timeYear": 161,
+    "dailyMinutesDown": {
+      "2022-01-19": 0
+    }
   }
 ]
