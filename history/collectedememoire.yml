@@ -1,7 +1,7 @@
 url: $COLLECTEDEMEMOIRE
-status: up
-code: 200
-responseTime: 682
-lastUpdated: 2022-02-09T23:12:08.462Z
+status: down
+code: 503
+responseTime: 3783
+lastUpdated: 2022-02-10T04:37:21.985Z
 startTime: Wed Apr 28 2021 08:57:25 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
