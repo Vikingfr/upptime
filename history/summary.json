@@ -13,7 +13,7 @@
     "time": 9056,
     "timeDay": 21828,
     "timeWeek": 14473,
-    "timeMonth": 9361,
+    "timeMonth": 9234,
     "timeYear": 9056,
     "dailyMinutesDown": {
       "2022-03-27": 29,
@@ -37,7 +37,7 @@
     "time": 2576,
     "timeDay": 3498,
     "timeWeek": 2531,
-    "timeMonth": 3861,
+    "timeMonth": 3822,
     "timeYear": 2576,
     "dailyMinutesDown": {
       "2022-03-06": 15,
@@ -76,7 +76,7 @@
     "time": 10744,
     "timeDay": 4367,
     "timeWeek": 7196,
-    "timeMonth": 8828,
+    "timeMonth": 9187,
     "timeYear": 10744,
     "dailyMinutesDown": {
       "2022-03-27": 41,
@@ -151,12 +151,12 @@
     "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.94%",
     "time": 9464,
     "timeDay": 4306,
     "timeWeek": 13147,
-    "timeMonth": 8813,
+    "timeMonth": 9099,
     "timeYear": 9464,
     "dailyMinutesDown": {
       "2022-02-28": 15,
@@ -183,7 +183,7 @@
     "time": 4706,
     "timeDay": 12101,
     "timeWeek": 6634,
-    "timeMonth": 4605,
+    "timeMonth": 4525,
     "timeYear": 4706,
     "dailyMinutesDown": {
       "2022-02-10": 19,
@@ -206,7 +206,7 @@
     "time": 1695,
     "timeDay": 3927,
     "timeWeek": 2564,
-    "timeMonth": 1861,
+    "timeMonth": 1836,
     "timeYear": 1695,
     "dailyMinutesDown": {
       "2022-02-19": 34,
@@ -244,7 +244,7 @@
     "time": 7593,
     "timeDay": 4632,
     "timeWeek": 4187,
-    "timeMonth": 5012,
+    "timeMonth": 5113,
     "timeYear": 7593,
     "dailyMinutesDown": {
       "2022-02-24": 94,
@@ -269,7 +269,7 @@
     "time": 5032,
     "timeDay": 13048,
     "timeWeek": 7017,
-    "timeMonth": 5870,
+    "timeMonth": 5723,
     "timeYear": 5032,
     "dailyMinutesDown": {
       "2022-03-23": 94,
@@ -302,7 +302,7 @@
     "time": 3200,
     "timeDay": 15454,
     "timeWeek": 5515,
-    "timeMonth": 2338,
+    "timeMonth": 2305,
     "timeYear": 3200,
     "dailyMinutesDown": {
       "2022-01-29": 18,
@@ -329,17 +329,16 @@
     "slug": "rue-de-la-coloc",
     "status": "up",
     "uptime": "99.02%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "96.03%",
-    "uptimeMonth": "97.54%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "96.09%",
+    "uptimeMonth": "97.55%",
     "uptimeYear": "99.02%",
     "time": 12774,
     "timeDay": 28379,
     "timeWeek": 22254,
-    "timeMonth": 18331,
+    "timeMonth": 18217,
     "timeYear": 12774,
     "dailyMinutesDown": {
-      "2022-03-28": 7,
       "2022-03-27": 278,
       "2022-03-24": 83,
       "2022-03-23": 33,
@@ -407,7 +406,7 @@
     "time": 160,
     "timeDay": 71,
     "timeWeek": 101,
-    "timeMonth": 112,
+    "timeMonth": 121,
     "timeYear": 160,
     "dailyMinutesDown": {}
   }
