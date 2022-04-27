@@ -13,7 +13,7 @@
     "time": 10276,
     "timeDay": 29423,
     "timeWeek": 20320,
-    "timeMonth": 22551,
+    "timeMonth": 22453,
     "timeYear": 10276,
     "dailyMinutesDown": {
       "2022-04-23": 26,
@@ -159,7 +159,7 @@
     "time": 9002,
     "timeDay": 2608,
     "timeWeek": 5065,
-    "timeMonth": 5763,
+    "timeMonth": 4420,
     "timeYear": 9002,
     "dailyMinutesDown": {
       "2022-04-11": 42,
@@ -342,18 +342,19 @@
     "url": "$COLOC",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "rue-de-la-coloc",
-    "status": "up",
-    "uptime": "98.99%",
-    "uptimeDay": "96.63%",
-    "uptimeWeek": "91.21%",
-    "uptimeMonth": "95.03%",
-    "uptimeYear": "98.99%",
+    "status": "down",
+    "uptime": "99.00%",
+    "uptimeDay": "98.78%",
+    "uptimeWeek": "91.32%",
+    "uptimeMonth": "95.33%",
+    "uptimeYear": "99.00%",
     "time": 14691,
-    "timeDay": 25070,
+    "timeDay": 24110,
     "timeWeek": 25752,
-    "timeMonth": 24398,
+    "timeMonth": 24385,
     "timeYear": 14691,
     "dailyMinutesDown": {
+      "2022-04-27": 0,
       "2022-04-26": 48,
       "2022-04-25": 129,
       "2022-04-24": 176,
@@ -416,8 +417,7 @@
       "2021-05-11": 226,
       "2021-05-10": 201,
       "2021-05-09": 174,
-      "2021-05-08": 144,
-      "2021-05-07": 16
+      "2021-05-08": 139
     }
   },
   {
