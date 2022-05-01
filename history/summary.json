@@ -13,7 +13,7 @@
     "time": 10384,
     "timeDay": 7956,
     "timeWeek": 20268,
-    "timeMonth": 22139,
+    "timeMonth": 22157,
     "timeYear": 10480,
     "dailyMinutesDown": {
       "2022-04-23": 26,
@@ -38,7 +38,7 @@
     "time": 3031,
     "timeDay": 5115,
     "timeWeek": 7653,
-    "timeMonth": 7314,
+    "timeMonth": 7418,
     "timeYear": 3092,
     "dailyMinutesDown": {
       "2022-04-26": 552,
@@ -75,11 +75,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.28%",
+    "uptimeYear": "98.29%",
     "time": 10224,
     "timeDay": 8483,
     "timeWeek": 4444,
-    "timeMonth": 3862,
+    "timeMonth": 3913,
     "timeYear": 10290,
     "dailyMinutesDown": {
       "2022-03-27": 41,
@@ -138,8 +138,7 @@
       "2021-05-05": 219,
       "2021-05-04": 219,
       "2021-05-03": 182,
-      "2021-05-02": 356,
-      "2021-05-01": 214
+      "2021-05-02": 356
     }
   },
   {
@@ -156,7 +155,7 @@
     "time": 8953,
     "timeDay": 4860,
     "timeWeek": 3976,
-    "timeMonth": 3889,
+    "timeMonth": 3926,
     "timeYear": 8909,
     "dailyMinutesDown": {
       "2022-04-11": 42,
@@ -183,7 +182,7 @@
     "time": 4930,
     "timeDay": 22125,
     "timeWeek": 4502,
-    "timeMonth": 6553,
+    "timeMonth": 6392,
     "timeYear": 4943,
     "dailyMinutesDown": {
       "2022-04-11": 30,
@@ -202,17 +201,16 @@
     "slug": "collectedememoire",
     "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.89%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.90%",
     "time": 1943,
     "timeDay": 2391,
     "timeWeek": 3616,
-    "timeMonth": 4344,
+    "timeMonth": 4357,
     "timeYear": 1959,
     "dailyMinutesDown": {
-      "2022-04-30": 6,
       "2022-04-17": 19,
       "2022-04-16": 20,
       "2022-02-19": 34,
@@ -250,7 +248,7 @@
     "time": 7429,
     "timeDay": 11755,
     "timeWeek": 6257,
-    "timeMonth": 5853,
+    "timeMonth": 5884,
     "timeYear": 7450,
     "dailyMinutesDown": {
       "2022-04-06": 137,
@@ -276,7 +274,7 @@
     "time": 5075,
     "timeDay": 4822,
     "timeWeek": 2150,
-    "timeMonth": 5134,
+    "timeMonth": 4916,
     "timeYear": 5114,
     "dailyMinutesDown": {
       "2022-04-15": 455,
@@ -293,8 +291,7 @@
       "2021-05-05": 1440,
       "2021-05-04": 1440,
       "2021-05-03": 1440,
-      "2021-05-02": 1440,
-      "2021-05-01": 27
+      "2021-05-02": 1440
     }
   },
   {
@@ -311,7 +308,7 @@
     "time": 3291,
     "timeDay": 2600,
     "timeWeek": 1334,
-    "timeMonth": 3556,
+    "timeMonth": 3277,
     "timeYear": 3306,
     "dailyMinutesDown": {
       "2022-04-12": 267,
@@ -330,8 +327,7 @@
       "2021-05-05": 1440,
       "2021-05-04": 1440,
       "2021-05-03": 1440,
-      "2021-05-02": 1440,
-      "2021-05-01": 27
+      "2021-05-02": 1440
     }
   },
   {
@@ -340,18 +336,19 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "rue-de-la-coloc",
     "status": "down",
-    "uptime": "99.03%",
-    "uptimeDay": "97.79%",
-    "uptimeWeek": "92.50%",
-    "uptimeMonth": "94.77%",
-    "uptimeYear": "99.02%",
+    "uptime": "99.01%",
+    "uptimeDay": "90.92%",
+    "uptimeWeek": "92.26%",
+    "uptimeMonth": "94.73%",
+    "uptimeYear": "99.00%",
     "time": 14945,
     "timeDay": 20021,
     "timeWeek": 26680,
-    "timeMonth": 24259,
-    "timeYear": 14969,
+    "timeMonth": 24162,
+    "timeYear": 14965,
     "dailyMinutesDown": {
-      "2022-04-30": 32,
+      "2022-05-01": 60,
+      "2022-04-30": 71,
       "2022-04-29": 191,
       "2022-04-28": 127,
       "2022-04-27": 37,
@@ -432,7 +429,7 @@
     "time": 155,
     "timeDay": 76,
     "timeWeek": 113,
-    "timeMonth": 101,
+    "timeMonth": 102,
     "timeYear": 157,
     "dailyMinutesDown": {}
   }
