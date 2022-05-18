@@ -6,7 +6,7 @@
     "slug": "asip",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "97.72%",
+    "uptimeDay": "99.79%",
     "uptimeWeek": "99.41%",
     "uptimeMonth": "99.53%",
     "uptimeYear": "99.92%",
@@ -303,15 +303,15 @@
     "url": "$COLOC",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "rue-de-la-coloc",
-    "status": "up",
-    "uptime": "98.89%",
-    "uptimeDay": "83.65%",
-    "uptimeWeek": "85.61%",
+    "status": "down",
+    "uptime": "98.90%",
+    "uptimeDay": "89.51%",
+    "uptimeWeek": "85.89%",
     "uptimeMonth": "90.30%",
-    "uptimeYear": "98.83%",
+    "uptimeYear": "98.84%",
     "time": 16195,
     "timeDay": 29466,
-    "timeWeek": 24759,
+    "timeWeek": 24629,
     "timeMonth": 24918,
     "timeYear": 16630,
     "dailyMinutesDown": {
@@ -365,8 +365,7 @@
       "2022-03-18": 131,
       "2022-03-17": 131,
       "2022-03-15": 52,
-      "2022-03-14": 97,
-      "2022-03-13": 42
+      "2022-03-14": 97
     }
   },
   {
