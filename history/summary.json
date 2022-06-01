@@ -14,7 +14,7 @@
     "timeDay": 27804,
     "timeWeek": 17203,
     "timeMonth": 17598,
-    "timeYear": 11320,
+    "timeYear": 11342,
     "dailyMinutesDown": {
       "2022-05-30": 38,
       "2022-05-24": 121,
@@ -47,7 +47,7 @@
     "timeDay": 3616,
     "timeWeek": 3249,
     "timeMonth": 5383,
-    "timeYear": 3402,
+    "timeYear": 3403,
     "dailyMinutesDown": {
       "2022-05-18": 47,
       "2022-05-17": 172,
@@ -90,7 +90,7 @@
     "timeDay": 2843,
     "timeWeek": 3166,
     "timeMonth": 3239,
-    "timeYear": 10089,
+    "timeYear": 10106,
     "dailyMinutesDown": {
       "2022-03-27": 41,
       "2022-03-19": 39,
@@ -151,7 +151,7 @@
     "timeDay": 2738,
     "timeWeek": 3683,
     "timeMonth": 3534,
-    "timeYear": 8186,
+    "timeYear": 8197,
     "dailyMinutesDown": {
       "2022-04-11": 42,
       "2022-02-28": 15,
@@ -178,7 +178,7 @@
     "timeDay": 7314,
     "timeWeek": 2777,
     "timeMonth": 2158,
-    "timeYear": 4695,
+    "timeYear": 4700,
     "dailyMinutesDown": {
       "2022-04-11": 30,
       "2022-04-08": 26,
@@ -202,9 +202,9 @@
     "uptimeYear": "99.90%",
     "time": 2058,
     "timeDay": 4089,
-    "timeWeek": 1651,
+    "timeWeek": 1425,
     "timeMonth": 3232,
-    "timeYear": 2071,
+    "timeYear": 2074,
     "dailyMinutesDown": {
       "2022-05-30": 21,
       "2022-05-23": 18,
@@ -245,7 +245,7 @@
     "timeDay": 5278,
     "timeWeek": 5109,
     "timeMonth": 5160,
-    "timeYear": 7148,
+    "timeYear": 7160,
     "dailyMinutesDown": {
       "2022-04-06": 137,
       "2022-02-24": 94,
@@ -271,7 +271,7 @@
     "timeDay": 5963,
     "timeWeek": 3140,
     "timeMonth": 2387,
-    "timeYear": 4851,
+    "timeYear": 4860,
     "dailyMinutesDown": {
       "2022-04-15": 455,
       "2022-04-11": 40,
@@ -295,7 +295,7 @@
     "timeDay": 11694,
     "timeWeek": 2574,
     "timeMonth": 1362,
-    "timeYear": 3078,
+    "timeYear": 3083,
     "dailyMinutesDown": {
       "2022-04-12": 267,
       "2022-03-30": 33,
@@ -311,18 +311,19 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "rue-de-la-coloc",
     "status": "down",
-    "uptime": "98.96%",
-    "uptimeDay": "91.65%",
-    "uptimeWeek": "84.96%",
+    "uptime": "98.94%",
+    "uptimeDay": "84.97%",
+    "uptimeWeek": "84.30%",
     "uptimeMonth": "88.12%",
-    "uptimeYear": "98.87%",
+    "uptimeYear": "98.85%",
     "time": 16901,
-    "timeDay": 23351,
-    "timeWeek": 21759,
+    "timeDay": 21597,
+    "timeWeek": 21563,
     "timeMonth": 23958,
-    "timeYear": 17604,
+    "timeYear": 17625,
     "dailyMinutesDown": {
-      "2022-05-31": 119,
+      "2022-06-01": 58,
+      "2022-05-31": 157,
       "2022-05-30": 151,
       "2022-05-29": 207,
       "2022-05-28": 273,
@@ -377,7 +378,7 @@
     "timeDay": 83,
     "timeWeek": 80,
     "timeMonth": 112,
-    "timeYear": 157,
+    "timeYear": 158,
     "dailyMinutesDown": {}
   }
 ]
