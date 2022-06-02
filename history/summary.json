@@ -12,7 +12,7 @@
     "uptimeYear": "99.86%",
     "time": 11080,
     "timeDay": 7149,
-    "timeWeek": 14392,
+    "timeWeek": 13861,
     "timeMonth": 17541,
     "timeYear": 11351,
     "dailyMinutesDown": {
@@ -244,7 +244,7 @@
     "time": 7255,
     "timeDay": 5799,
     "timeWeek": 5233,
-    "timeMonth": 5092,
+    "timeMonth": 5207,
     "timeYear": 7165,
     "dailyMinutesDown": {
       "2022-04-06": 137,
@@ -262,7 +262,7 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "kuriosity-club",
     "status": "up",
-    "uptime": "97.39%",
+    "uptime": "97.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -286,7 +286,7 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "cloud-asip",
     "status": "up",
-    "uptime": "97.43%",
+    "uptime": "97.44%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -310,15 +310,15 @@
     "url": "$COLOC",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "rue-de-la-coloc",
-    "status": "up",
-    "uptime": "98.95%",
-    "uptimeDay": "93.09%",
-    "uptimeWeek": "85.56%",
+    "status": "down",
+    "uptime": "98.96%",
+    "uptimeDay": "93.06%",
+    "uptimeWeek": "85.75%",
     "uptimeMonth": "88.24%",
-    "uptimeYear": "98.85%",
+    "uptimeYear": "98.86%",
     "time": 16915,
     "timeDay": 23281,
-    "timeWeek": 20532,
+    "timeWeek": 20950,
     "timeMonth": 23693,
     "timeYear": 17653,
     "dailyMinutesDown": {
@@ -358,7 +358,7 @@
       "2022-04-29": 191,
       "2022-04-28": 127,
       "2022-04-27": 37,
-      "2022-04-26": 48
+      "2022-04-26": 17
     }
   },
   {
