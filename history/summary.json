@@ -4,10 +4,10 @@
     "url": "https://asip10.fr",
     "icon": "https://favicons.githubusercontent.com/asip10.fr",
     "slug": "asip",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "96.86%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "96.84%",
     "uptimeMonth": "98.39%",
     "uptimeYear": "99.80%",
     "time": 11606,
@@ -16,6 +16,7 @@
     "timeMonth": 19565,
     "timeYear": 12075,
     "dailyMinutesDown": {
+      "2022-06-09": 2,
       "2022-06-08": 30,
       "2022-06-06": 132,
       "2022-06-05": 132,
@@ -315,15 +316,15 @@
     "url": "$COLOC",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "rue-de-la-coloc",
-    "status": "up",
+    "status": "down",
     "uptime": "98.87%",
-    "uptimeDay": "75.59%",
-    "uptimeWeek": "75.43%",
-    "uptimeMonth": "84.88%",
+    "uptimeDay": "76.46%",
+    "uptimeWeek": "75.64%",
+    "uptimeMonth": "84.92%",
     "uptimeYear": "98.74%",
     "time": 17028,
     "timeDay": 17154,
-    "timeWeek": 18964,
+    "timeWeek": 18746,
     "timeMonth": 21975,
     "timeYear": 17839,
     "dailyMinutesDown": {
@@ -356,8 +357,7 @@
       "2022-05-14": 292,
       "2022-05-13": 193,
       "2022-05-12": 159,
-      "2022-05-11": 124,
-      "2022-05-10": 20
+      "2022-05-11": 124
     }
   },
   {
