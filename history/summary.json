@@ -208,7 +208,7 @@
     "status": "up",
     "uptime": "98.70%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "60.07%",
+    "uptimeWeek": "60.39%",
     "uptimeMonth": "83.47%",
     "uptimeYear": "98.52%",
     "time": 2162,
@@ -327,16 +327,16 @@
     "url": "$COLOC",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "rue-de-la-coloc",
-    "status": "up",
-    "uptime": "98.85%",
-    "uptimeDay": "87.84%",
-    "uptimeWeek": "82.17%",
-    "uptimeMonth": "84.26%",
-    "uptimeYear": "98.69%",
+    "status": "down",
+    "uptime": "98.89%",
+    "uptimeDay": "87.82%",
+    "uptimeWeek": "82.31%",
+    "uptimeMonth": "84.71%",
+    "uptimeYear": "98.73%",
     "time": 17340,
     "timeDay": 21162,
-    "timeWeek": 20776,
-    "timeMonth": 20582,
+    "timeWeek": 20614,
+    "timeMonth": 20535,
     "timeYear": 18263,
     "dailyMinutesDown": {
       "2022-06-20": 110,
@@ -363,7 +363,7 @@
       "2022-05-30": 151,
       "2022-05-29": 207,
       "2022-05-28": 273,
-      "2022-05-27": 276
+      "2022-05-27": 76
     }
   },
   {
