@@ -6,14 +6,14 @@
     "slug": "asip",
     "status": "up",
     "uptime": "99.24%",
-    "uptimeDay": "89.30%",
+    "uptimeDay": "92.08%",
     "uptimeWeek": "88.91%",
     "uptimeMonth": "91.87%",
     "uptimeYear": "99.06%",
     "time": 15124,
-    "timeDay": 21396,
+    "timeDay": 20824,
     "timeWeek": 25229,
-    "timeMonth": 24404,
+    "timeMonth": 24365,
     "timeYear": 16475,
     "dailyMinutesDown": {
       "2022-07-23": 147,
@@ -128,12 +128,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.03%",
+    "uptimeYear": "99.04%",
     "time": 9163,
     "timeDay": 3490,
     "timeWeek": 2556,
     "timeMonth": 2981,
-    "timeYear": 8432,
+    "timeYear": 8430,
     "dailyMinutesDown": {
       "2022-06-21": 16,
       "2022-03-27": 41,
@@ -163,8 +163,7 @@
       "2021-07-28": 1391,
       "2021-07-27": 41,
       "2021-07-26": 48,
-      "2021-07-25": 138,
-      "2021-07-24": 56
+      "2021-07-25": 138
     }
   },
   {
