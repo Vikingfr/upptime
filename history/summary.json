@@ -6,17 +6,17 @@
     "slug": "asip",
     "status": "up",
     "uptime": "99.12%",
-    "uptimeDay": "73.29%",
-    "uptimeWeek": "76.35%",
-    "uptimeMonth": "86.69%",
+    "uptimeDay": "73.81%",
+    "uptimeWeek": "76.63%",
+    "uptimeMonth": "86.67%",
     "uptimeYear": "98.89%",
     "time": 15982,
     "timeDay": 23463,
-    "timeWeek": 23331,
+    "timeWeek": 23211,
     "timeMonth": 24074,
     "timeYear": 17407,
     "dailyMinutesDown": {
-      "2022-08-02": 385,
+      "2022-08-02": 378,
       "2022-08-01": 351,
       "2022-07-31": 255,
       "2022-07-30": 158,
@@ -44,7 +44,8 @@
       "2022-07-07": 18,
       "2022-07-06": 32,
       "2022-07-05": 51,
-      "2022-07-04": 74
+      "2022-07-04": 74,
+      "2022-07-03": 16
     }
   },
   {
@@ -107,7 +108,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.45%",
+    "uptimeYear": "99.46%",
     "time": 9134,
     "timeDay": 0,
     "timeWeek": 7450,
@@ -132,8 +133,7 @@
       "2021-08-07": 170,
       "2021-08-06": 125,
       "2021-08-05": 148,
-      "2021-08-04": 146,
-      "2021-08-03": 163
+      "2021-08-04": 146
     }
   },
   {
@@ -296,7 +296,7 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "cloud-asip",
     "status": "up",
-    "uptime": "97.77%",
+    "uptime": "97.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
