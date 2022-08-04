@@ -4,19 +4,19 @@
     "url": "https://asip10.fr",
     "icon": "https://favicons.githubusercontent.com/asip10.fr",
     "slug": "asip",
-    "status": "up",
+    "status": "down",
     "uptime": "99.09%",
-    "uptimeDay": "79.31%",
-    "uptimeWeek": "78.44%",
-    "uptimeMonth": "86.16%",
+    "uptimeDay": "79.26%",
+    "uptimeWeek": "78.45%",
+    "uptimeMonth": "86.21%",
     "uptimeYear": "98.85%",
     "time": 16109,
-    "timeDay": 23041,
+    "timeDay": 22474,
     "timeWeek": 22626,
     "timeMonth": 24326,
     "timeYear": 17544,
     "dailyMinutesDown": {
-      "2022-08-04": 192,
+      "2022-08-04": 193,
       "2022-08-03": 304,
       "2022-08-02": 378,
       "2022-08-01": 351,
@@ -40,8 +40,7 @@
       "2022-07-14": 137,
       "2022-07-13": 184,
       "2022-07-12": 22,
-      "2022-07-11": 123,
-      "2022-07-09": 19
+      "2022-07-11": 123
     }
   },
   {
