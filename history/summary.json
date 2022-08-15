@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/asip10.fr",
     "slug": "asip",
     "status": "down",
-    "uptime": "98.80%",
-    "uptimeDay": "63.98%",
-    "uptimeWeek": "68.34%",
-    "uptimeMonth": "81.25%",
-    "uptimeYear": "98.44%",
+    "uptime": "98.78%",
+    "uptimeDay": "62.76%",
+    "uptimeWeek": "67.99%",
+    "uptimeMonth": "81.02%",
+    "uptimeYear": "98.42%",
     "time": 16646,
-    "timeDay": 21884,
+    "timeDay": 24427,
     "timeWeek": 22575,
-    "timeMonth": 23642,
+    "timeMonth": 23701,
     "timeYear": 18129,
     "dailyMinutesDown": {
-      "2022-08-14": 492,
+      "2022-08-15": 57,
+      "2022-08-14": 537,
       "2022-08-13": 500,
       "2022-08-12": 471,
       "2022-08-11": 432,
@@ -53,7 +54,7 @@
     "time": 4367,
     "timeDay": 8509,
     "timeWeek": 11583,
-    "timeMonth": 11084,
+    "timeMonth": 11077,
     "timeYear": 5142,
     "dailyMinutesDown": {
       "2022-08-14": 36,
@@ -89,8 +90,7 @@
       "2021-10-03": 16,
       "2021-09-30": 36,
       "2021-09-14": 16,
-      "2021-08-16": 91,
-      "2021-08-15": 18
+      "2021-08-16": 91
     }
   },
   {
@@ -107,7 +107,7 @@
     "time": 8727,
     "timeDay": 2638,
     "timeWeek": 3533,
-    "timeMonth": 3780,
+    "timeMonth": 3766,
     "timeYear": 7773,
     "dailyMinutesDown": {
       "2022-06-21": 16,
@@ -134,7 +134,7 @@
     "time": 7785,
     "timeDay": 3848,
     "timeWeek": 4092,
-    "timeMonth": 3629,
+    "timeMonth": 3604,
     "timeYear": 7113,
     "dailyMinutesDown": {
       "2022-06-21": 16,
@@ -162,7 +162,7 @@
     "time": 4307,
     "timeDay": 2987,
     "timeWeek": 1920,
-    "timeMonth": 1970,
+    "timeMonth": 1959,
     "timeYear": 4144,
     "dailyMinutesDown": {
       "2022-06-21": 16,
@@ -187,9 +187,9 @@
     "uptimeMonth": "99.90%",
     "uptimeYear": "98.51%",
     "time": 2587,
-    "timeDay": 7686,
+    "timeDay": 10922,
     "timeWeek": 8575,
-    "timeMonth": 6220,
+    "timeMonth": 6340,
     "timeYear": 2770,
     "dailyMinutesDown": {
       "2022-08-04": 21,
@@ -237,9 +237,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 7153,
-    "timeDay": 11598,
+    "timeDay": 4411,
     "timeWeek": 8155,
-    "timeMonth": 7429,
+    "timeMonth": 7493,
     "timeYear": 6970,
     "dailyMinutesDown": {
       "2022-04-06": 137,
@@ -265,7 +265,7 @@
     "time": 4484,
     "timeDay": 2813,
     "timeWeek": 2232,
-    "timeMonth": 2141,
+    "timeMonth": 2126,
     "timeYear": 4254,
     "dailyMinutesDown": {
       "2022-06-21": 15,
@@ -289,7 +289,7 @@
     "time": 2830,
     "timeDay": 866,
     "timeWeek": 947,
-    "timeMonth": 922,
+    "timeMonth": 924,
     "timeYear": 2626,
     "dailyMinutesDown": {
       "2022-06-21": 15,
@@ -315,7 +315,7 @@
     "time": 16822,
     "timeDay": 9469,
     "timeWeek": 8778,
-    "timeMonth": 8076,
+    "timeMonth": 8140,
     "timeYear": 17607,
     "dailyMinutesDown": {
       "2022-06-21": 211,
