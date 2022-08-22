@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/asip10.fr",
     "slug": "asip",
     "status": "down",
-    "uptime": "98.62%",
-    "uptimeDay": "62.78%",
+    "uptime": "98.61%",
+    "uptimeDay": "62.30%",
     "uptimeWeek": "65.34%",
-    "uptimeMonth": "78.22%",
-    "uptimeYear": "98.18%",
+    "uptimeMonth": "77.98%",
+    "uptimeYear": "98.17%",
     "time": 16707,
     "timeDay": 14965,
     "timeWeek": 17897,
-    "timeMonth": 22216,
+    "timeMonth": 22236,
     "timeYear": 18180,
     "dailyMinutesDown": {
-      "2022-08-21": 498,
+      "2022-08-22": 57,
+      "2022-08-21": 543,
       "2022-08-20": 479,
       "2022-08-19": 594,
       "2022-08-18": 483,
@@ -54,7 +55,7 @@
     "time": 4442,
     "timeDay": 6220,
     "timeWeek": 9749,
-    "timeMonth": 10613,
+    "timeMonth": 10475,
     "timeYear": 5268,
     "dailyMinutesDown": {
       "2022-08-19": 28,
@@ -107,7 +108,7 @@
     "time": 8533,
     "timeDay": 3197,
     "timeWeek": 3527,
-    "timeMonth": 4023,
+    "timeMonth": 4051,
     "timeYear": 7578,
     "dailyMinutesDown": {
       "2022-06-21": 16,
@@ -134,7 +135,7 @@
     "time": 7603,
     "timeDay": 2346,
     "timeWeek": 3705,
-    "timeMonth": 3864,
+    "timeMonth": 3851,
     "timeYear": 6925,
     "dailyMinutesDown": {
       "2022-06-21": 16,
@@ -162,7 +163,7 @@
     "time": 4283,
     "timeDay": 2613,
     "timeWeek": 1878,
-    "timeMonth": 1994,
+    "timeMonth": 1975,
     "timeYear": 4066,
     "dailyMinutesDown": {
       "2022-06-21": 16,
@@ -189,7 +190,7 @@
     "time": 2683,
     "timeDay": 10532,
     "timeWeek": 8267,
-    "timeMonth": 6862,
+    "timeMonth": 6768,
     "timeYear": 2889,
     "dailyMinutesDown": {
       "2022-08-16": 16,
@@ -240,7 +241,7 @@
     "time": 7154,
     "timeDay": 6614,
     "timeWeek": 7243,
-    "timeMonth": 7512,
+    "timeMonth": 7517,
     "timeYear": 6909,
     "dailyMinutesDown": {
       "2022-04-06": 137,
@@ -266,7 +267,7 @@
     "time": 4470,
     "timeDay": 2855,
     "timeWeek": 1960,
-    "timeMonth": 2144,
+    "timeMonth": 2116,
     "timeYear": 4165,
     "dailyMinutesDown": {
       "2022-06-21": 15,
@@ -290,7 +291,7 @@
     "time": 2782,
     "timeDay": 1079,
     "timeWeek": 926,
-    "timeMonth": 948,
+    "timeMonth": 940,
     "timeYear": 2551,
     "dailyMinutesDown": {
       "2022-06-21": 15,
@@ -316,7 +317,7 @@
     "time": 16773,
     "timeDay": 8577,
     "timeWeek": 8529,
-    "timeMonth": 8396,
+    "timeMonth": 8529,
     "timeYear": 17565,
     "dailyMinutesDown": {
       "2022-06-21": 211,
@@ -360,7 +361,7 @@
     "time": 144,
     "timeDay": 106,
     "timeWeek": 154,
-    "timeMonth": 108,
+    "timeMonth": 109,
     "timeYear": 148,
     "dailyMinutesDown": {}
   }
