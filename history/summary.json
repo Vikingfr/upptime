@@ -4,19 +4,19 @@
     "url": "https://asip10.fr",
     "icon": "https://favicons.githubusercontent.com/asip10.fr",
     "slug": "asip",
-    "status": "up",
-    "uptime": "97.76%",
-    "uptimeDay": "57.10%",
-    "uptimeWeek": "56.63%",
-    "uptimeMonth": "63.07%",
-    "uptimeYear": "96.92%",
+    "status": "down",
+    "uptime": "97.80%",
+    "uptimeDay": "57.03%",
+    "uptimeWeek": "57.76%",
+    "uptimeMonth": "63.75%",
+    "uptimeYear": "96.98%",
     "time": 16473,
     "timeDay": 14127,
-    "timeWeek": 12651,
+    "timeWeek": 13285,
     "timeMonth": 16331,
-    "timeYear": 17900,
+    "timeYear": 17899,
     "dailyMinutesDown": {
-      "2022-09-11": 574,
+      "2022-09-11": 575,
       "2022-09-10": 621,
       "2022-09-09": 600,
       "2022-09-08": 624,
@@ -45,7 +45,7 @@
       "2022-08-16": 479,
       "2022-08-15": 505,
       "2022-08-14": 537,
-      "2022-08-13": 500
+      "2022-08-13": 200
     }
   },
   {
@@ -63,7 +63,7 @@
     "timeDay": 0,
     "timeWeek": 5601,
     "timeMonth": 10078,
-    "timeYear": 5711,
+    "timeYear": 5722,
     "dailyMinutesDown": {
       "2022-09-08": 38,
       "2022-09-04": 114,
@@ -121,7 +121,7 @@
     "timeDay": 0,
     "timeWeek": 2811,
     "timeMonth": 3914,
-    "timeYear": 6624,
+    "timeYear": 6587,
     "dailyMinutesDown": {
       "2022-06-21": 16,
       "2022-03-27": 41,
@@ -148,7 +148,7 @@
     "timeDay": 0,
     "timeWeek": 3602,
     "timeMonth": 3823,
-    "timeYear": 6392,
+    "timeYear": 6369,
     "dailyMinutesDown": {
       "2022-06-21": 16,
       "2022-04-11": 42,
@@ -176,7 +176,7 @@
     "timeDay": 0,
     "timeWeek": 1867,
     "timeMonth": 2059,
-    "timeYear": 3849,
+    "timeYear": 3839,
     "dailyMinutesDown": {
       "2022-06-21": 16,
       "2022-04-11": 30,
@@ -258,7 +258,7 @@
     "timeDay": 0,
     "timeWeek": 7867,
     "timeMonth": 8081,
-    "timeYear": 6760,
+    "timeYear": 6749,
     "dailyMinutesDown": {
       "2022-09-07": 20,
       "2022-04-06": 137,
@@ -285,7 +285,7 @@
     "timeDay": 0,
     "timeWeek": 1840,
     "timeMonth": 1989,
-    "timeYear": 3915,
+    "timeYear": 3905,
     "dailyMinutesDown": {
       "2022-06-21": 15,
       "2022-04-15": 455,
@@ -309,7 +309,7 @@
     "timeDay": 0,
     "timeWeek": 912,
     "timeMonth": 1031,
-    "timeYear": 2329,
+    "timeYear": 2318,
     "dailyMinutesDown": {
       "2022-09-07": 55,
       "2022-06-21": 15,
