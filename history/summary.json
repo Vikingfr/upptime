@@ -4,19 +4,19 @@
     "url": "https://asip10.fr",
     "icon": "https://icons.duckduckgo.com/ip3/asip10.fr.ico",
     "slug": "asip",
-    "status": "up",
-    "uptime": "96.92%",
-    "uptimeDay": "58.81%",
-    "uptimeWeek": "56.60%",
-    "uptimeMonth": "58.39%",
-    "uptimeYear": "95.58%",
-    "time": 16230,
+    "status": "down",
+    "uptime": "96.98%",
+    "uptimeDay": "66.31%",
+    "uptimeWeek": "57.67%",
+    "uptimeMonth": "58.40%",
+    "uptimeYear": "95.66%",
+    "time": 16243,
     "timeDay": 13393,
     "timeWeek": 12001,
-    "timeMonth": 12309,
+    "timeMonth": 12357,
     "timeYear": 17466,
     "dailyMinutesDown": {
-      "2022-10-04": 120,
+      "2022-10-04": 121,
       "2022-10-03": 593,
       "2022-10-02": 650,
       "2022-10-01": 618,
@@ -55,8 +55,7 @@
       "2022-08-29": 599,
       "2022-08-28": 627,
       "2022-08-27": 379,
-      "2022-08-26": 559,
-      "2022-08-25": 36
+      "2022-08-26": 142
     }
   },
   {
