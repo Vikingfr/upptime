@@ -4,19 +4,19 @@
     "url": "https://asip10.fr",
     "icon": "https://icons.duckduckgo.com/ip3/asip10.fr.ico",
     "slug": "asip",
-    "status": "up",
-    "uptime": "96.69%",
-    "uptimeDay": "53.24%",
-    "uptimeWeek": "56.83%",
+    "status": "down",
+    "uptime": "96.74%",
+    "uptimeDay": "53.55%",
+    "uptimeWeek": "56.82%",
     "uptimeMonth": "58.22%",
-    "uptimeYear": "95.15%",
-    "time": 16708,
-    "timeDay": 10282,
+    "uptimeYear": "95.22%",
+    "time": 16718,
+    "timeDay": 10946,
     "timeWeek": 13088,
     "timeMonth": 12359,
-    "timeYear": 17291,
+    "timeYear": 17295,
     "dailyMinutesDown": {
-      "2022-10-15": 649,
+      "2022-10-15": 650,
       "2022-10-14": 674,
       "2022-10-13": 643,
       "2022-10-12": 644,
@@ -57,7 +57,7 @@
       "2022-09-07": 571,
       "2022-09-06": 583,
       "2022-09-05": 638,
-      "2022-09-04": 506
+      "2022-09-04": 160
     }
   },
   {
@@ -67,15 +67,15 @@
     "slug": "scop-276",
     "status": "up",
     "uptime": "99.50%",
-    "uptimeDay": "98.94%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.25%",
     "uptimeYear": "99.32%",
     "time": 5097,
-    "timeDay": 7557,
+    "timeDay": 11245,
     "timeWeek": 6186,
     "timeMonth": 8074,
-    "timeYear": 6303,
+    "timeYear": 6314,
     "dailyMinutesDown": {
       "2022-10-14": 15,
       "2022-10-02": 202,
@@ -134,7 +134,7 @@
     "timeDay": 2482,
     "timeWeek": 3311,
     "timeMonth": 3147,
-    "timeYear": 5084,
+    "timeYear": 5056,
     "dailyMinutesDown": {
       "2022-06-21": 16,
       "2022-03-27": 41,
@@ -160,7 +160,7 @@
     "timeDay": 2479,
     "timeWeek": 3669,
     "timeMonth": 3499,
-    "timeYear": 5277,
+    "timeYear": 5251,
     "dailyMinutesDown": {
       "2022-06-21": 16,
       "2022-04-11": 42,
@@ -187,7 +187,7 @@
     "timeDay": 766,
     "timeWeek": 1431,
     "timeMonth": 1441,
-    "timeYear": 3328,
+    "timeYear": 3318,
     "dailyMinutesDown": {
       "2022-06-21": 16,
       "2022-04-11": 30,
@@ -204,16 +204,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "collectedememoire",
     "status": "up",
-    "uptime": "97.88%",
+    "uptime": "97.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "81.37%",
-    "uptimeYear": "96.95%",
+    "uptimeYear": "96.96%",
     "time": 3256,
     "timeDay": 689,
     "timeWeek": 5208,
     "timeMonth": 5508,
-    "timeYear": 3485,
+    "timeYear": 3498,
     "dailyMinutesDown": {
       "2022-10-07": 45,
       "2022-10-06": 1406,
@@ -277,7 +277,7 @@
     "timeDay": 10459,
     "timeWeek": 7648,
     "timeMonth": 8056,
-    "timeYear": 6361,
+    "timeYear": 6344,
     "dailyMinutesDown": {
       "2022-09-07": 20,
       "2022-04-06": 137,
@@ -303,7 +303,7 @@
     "timeDay": 1908,
     "timeWeek": 2363,
     "timeMonth": 2261,
-    "timeYear": 3440,
+    "timeYear": 3430,
     "dailyMinutesDown": {
       "2022-06-21": 15,
       "2022-04-15": 455,
@@ -326,7 +326,7 @@
     "timeDay": 608,
     "timeWeek": 1031,
     "timeMonth": 1274,
-    "timeYear": 1869,
+    "timeYear": 1858,
     "dailyMinutesDown": {
       "2022-10-11": 60,
       "2022-09-07": 55,
@@ -353,7 +353,7 @@
     "timeDay": 6917,
     "timeWeek": 8716,
     "timeMonth": 7475,
-    "timeYear": 16984,
+    "timeYear": 16980,
     "dailyMinutesDown": {
       "2022-06-21": 211,
       "2022-06-20": 233,
@@ -397,7 +397,7 @@
     "timeDay": 63,
     "timeWeek": 141,
     "timeMonth": 127,
-    "timeYear": 130,
+    "timeYear": 129,
     "dailyMinutesDown": {}
   }
 ]
