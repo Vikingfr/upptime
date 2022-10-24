@@ -4,18 +4,19 @@
     "url": "https://asip10.fr",
     "icon": "https://icons.duckduckgo.com/ip3/asip10.fr.ico",
     "slug": "asip",
-    "status": "up",
-    "uptime": "96.59%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "60.61%",
+    "status": "down",
+    "uptime": "96.60%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "60.59%",
     "uptimeMonth": "58.25%",
-    "uptimeYear": "94.92%",
-    "time": 16047,
+    "uptimeYear": "94.93%",
+    "time": 16040,
     "timeDay": 6389,
     "timeWeek": 9755,
     "timeMonth": 11882,
-    "timeYear": 17127,
+    "timeYear": 17125,
     "dailyMinutesDown": {
+      "2022-10-24": 2,
       "2022-10-23": 634,
       "2022-10-22": 665,
       "2022-10-21": 689,
@@ -59,7 +60,7 @@
       "2022-09-13": 593,
       "2022-09-12": 633,
       "2022-09-11": 622,
-      "2022-09-10": 154
+      "2022-09-10": 92
     }
   },
   {
@@ -77,7 +78,7 @@
     "timeDay": 0,
     "timeWeek": 10088,
     "timeMonth": 8716,
-    "timeYear": 6481,
+    "timeYear": 6493,
     "dailyMinutesDown": {
       "2022-10-23": 34,
       "2022-10-22": 37,
@@ -138,7 +139,7 @@
     "timeDay": 0,
     "timeWeek": 2591,
     "timeMonth": 2991,
-    "timeYear": 4758,
+    "timeYear": 4723,
     "dailyMinutesDown": {
       "2022-06-21": 16,
       "2022-03-27": 41,
@@ -163,7 +164,7 @@
     "timeDay": 0,
     "timeWeek": 3478,
     "timeMonth": 3494,
-    "timeYear": 4939,
+    "timeYear": 4894,
     "dailyMinutesDown": {
       "2022-06-21": 16,
       "2022-04-11": 42,
@@ -189,7 +190,7 @@
     "timeDay": 0,
     "timeWeek": 1759,
     "timeMonth": 1516,
-    "timeYear": 3173,
+    "timeYear": 3162,
     "dailyMinutesDown": {
       "2022-06-21": 16,
       "2022-04-11": 30,
@@ -214,7 +215,7 @@
     "timeDay": 0,
     "timeWeek": 7265,
     "timeMonth": 5749,
-    "timeYear": 3578,
+    "timeYear": 3579,
     "dailyMinutesDown": {
       "2022-10-21": 24,
       "2022-10-19": 19,
@@ -281,7 +282,7 @@
     "timeDay": 0,
     "timeWeek": 7538,
     "timeMonth": 7829,
-    "timeYear": 6183,
+    "timeYear": 6165,
     "dailyMinutesDown": {
       "2022-09-07": 20,
       "2022-04-06": 137,
@@ -306,7 +307,7 @@
     "timeDay": 0,
     "timeWeek": 2471,
     "timeMonth": 2317,
-    "timeYear": 3313,
+    "timeYear": 3302,
     "dailyMinutesDown": {
       "2022-06-21": 15,
       "2022-04-15": 455,
@@ -329,7 +330,7 @@
     "timeDay": 0,
     "timeWeek": 870,
     "timeMonth": 1080,
-    "timeYear": 1709,
+    "timeYear": 1693,
     "dailyMinutesDown": {
       "2022-10-11": 60,
       "2022-09-07": 55,
