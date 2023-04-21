@@ -1,7 +1,7 @@
 url: $CLOUDASIP
-status: down
-code: 503
-responseTime: 1996
-lastUpdated: 2023-04-21T11:56:24.297Z
+status: up
+code: 200
+responseTime: 584
+lastUpdated: 2023-04-21T12:16:30.631Z
 startTime: Wed Apr 28 2021 08:57:35 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
