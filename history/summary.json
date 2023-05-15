@@ -260,7 +260,7 @@
     "timeMonth": 0,
     "timeYear": 4402,
     "dailyMinutesDown": {
-      "2023-05-15": 678,
+      "2023-05-15": 685,
       "2023-05-14": 1440,
       "2023-05-13": 1440,
       "2023-05-12": 1440,
@@ -437,19 +437,19 @@
     "url": "$FLASHFORM",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "flashform",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 5915,
+    "time": 5919,
     "timeDay": 9466,
     "timeWeek": 7442,
     "timeMonth": 6016,
     "timeYear": 5829,
     "dailyMinutesDown": {
-      "2023-05-15": 12,
+      "2023-05-15": 0,
       "2023-03-13": 84,
       "2022-09-07": 20
     }
@@ -525,7 +525,7 @@
     "timeMonth": 2832,
     "timeYear": 11953,
     "dailyMinutesDown": {
-      "2023-05-15": 678,
+      "2023-05-15": 685,
       "2023-05-14": 1440,
       "2023-05-13": 1440,
       "2023-05-12": 1440,
