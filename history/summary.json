@@ -259,14 +259,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "52.99%",
+    "uptimeYear": "52.98%",
     "time": 3897,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 4583,
     "dailyMinutesDown": {
-      "2023-06-16": 962,
+      "2023-06-16": 983,
       "2023-06-15": 1440,
       "2023-06-14": 1440,
       "2023-06-13": 1440,
@@ -561,7 +561,7 @@
     "timeMonth": 2291,
     "timeYear": 6946,
     "dailyMinutesDown": {
-      "2023-06-16": 962,
+      "2023-06-16": 983,
       "2023-06-15": 1440,
       "2023-06-14": 1440,
       "2023-06-13": 1440,
@@ -698,19 +698,19 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google-to-check-system",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.51%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 111,
-    "timeDay": 86,
-    "timeWeek": 125,
+    "timeDay": 79,
+    "timeWeek": 119,
     "timeMonth": 92,
     "timeYear": 104,
     "dailyMinutesDown": {
-      "2023-06-16": 1
+      "2023-06-16": 22
     }
   }
 ]
