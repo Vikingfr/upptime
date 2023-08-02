@@ -270,7 +270,7 @@
     "timeMonth": 0,
     "timeYear": 4519,
     "dailyMinutesDown": {
-      "2023-08-02": 1285,
+      "2023-08-02": 1293,
       "2023-08-01": 1440,
       "2023-07-31": 1440,
       "2023-07-30": 1440,
@@ -767,18 +767,19 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google-to-check-system",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 103,
-    "timeDay": 98,
-    "timeWeek": 107,
-    "timeMonth": 104,
-    "timeYear": 104,
+    "time": 104,
+    "timeDay": 200,
+    "timeWeek": 131,
+    "timeMonth": 110,
+    "timeYear": 105,
     "dailyMinutesDown": {
+      "2023-08-02": 1,
       "2023-06-16": 22
     }
   }
