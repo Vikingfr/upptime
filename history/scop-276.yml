@@ -1,7 +1,7 @@
 url: $SCOP276
-status: up
-code: 200
-responseTime: 4556
-lastUpdated: 2023-08-09T13:42:14.660Z
+status: down
+code: 500
+responseTime: 758
+lastUpdated: 2023-08-09T13:49:55.601Z
 startTime: Wed Apr 28 2021 08:57:09 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
