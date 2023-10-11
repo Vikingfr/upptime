@@ -248,7 +248,7 @@
     "timeMonth": 0,
     "timeYear": 2108,
     "dailyMinutesDown": {
-      "2023-10-11": 1425,
+      "2023-10-11": 1433,
       "2023-10-10": 1440,
       "2023-10-09": 1440,
       "2023-10-08": 1440,
@@ -797,19 +797,19 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google-to-check-system",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 104,
-    "timeDay": 253,
-    "timeWeek": 156,
-    "timeMonth": 112,
+    "timeDay": 195,
+    "timeWeek": 149,
+    "timeMonth": 111,
     "timeYear": 104,
     "dailyMinutesDown": {
-      "2023-10-11": 1,
+      "2023-10-11": 8,
       "2023-06-16": 22
     }
   }
