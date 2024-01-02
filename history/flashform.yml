@@ -1,7 +1,7 @@
 url: $FLASHFORM
-status: down
-code: 404
-responseTime: 526
-lastUpdated: 2024-01-01T23:11:26.381Z
+status: up
+code: 200
+responseTime: 435
+lastUpdated: 2024-01-02T12:44:46.716Z
 startTime: 2021-04-28T08:57:26.000Z
 generator: Upptime <https://github.com/upptime/upptime>
