@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.58%",
-    "time": 2968,
-    "timeDay": 962,
-    "timeWeek": 1346,
-    "timeMonth": 1588,
-    "timeYear": 2265,
+    "time": 2964,
+    "timeDay": 1045,
+    "timeWeek": 1316,
+    "timeMonth": 1556,
+    "timeYear": 2264,
     "dailyMinutesDown": {
       "2024-03-03": 15,
       "2024-01-30": 999,
@@ -40,15 +40,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "scop-276",
     "status": "up",
-    "uptime": "95.48%",
+    "uptime": "95.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "88.99%",
-    "time": 1124,
-    "timeDay": 756,
-    "timeWeek": 1048,
-    "timeMonth": 1074,
+    "time": 1123,
+    "timeDay": 714,
+    "timeWeek": 1051,
+    "timeMonth": 1072,
     "timeYear": 1055,
     "dailyMinutesDown": {
       "2024-03-19": 31,
@@ -129,11 +129,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.58%",
-    "time": 3037,
-    "timeDay": 1058,
-    "timeWeek": 1522,
-    "timeMonth": 1644,
-    "timeYear": 2659,
+    "time": 3036,
+    "timeDay": 1318,
+    "timeWeek": 1517,
+    "timeMonth": 1651,
+    "timeYear": 2653,
     "dailyMinutesDown": {
       "2024-01-30": 999,
       "2024-01-29": 540,
@@ -146,8 +146,7 @@
       "2023-06-04": 27,
       "2023-05-27": 145,
       "2023-05-07": 27,
-      "2023-04-30": 223,
-      "2023-04-06": 63
+      "2023-04-30": 223
     }
   },
   {
@@ -161,11 +160,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.49%",
-    "time": 5298,
-    "timeDay": 3626,
-    "timeWeek": 4695,
-    "timeMonth": 7082,
-    "timeYear": 5447,
+    "time": 5276,
+    "timeDay": 2126,
+    "timeWeek": 4764,
+    "timeMonth": 7103,
+    "timeYear": 5449,
     "dailyMinutesDown": {
       "2024-01-30": 999,
       "2024-01-29": 523,
@@ -181,8 +180,7 @@
       "2023-05-07": 121,
       "2023-04-30": 223,
       "2023-04-16": 81,
-      "2023-04-07": 24,
-      "2023-04-06": 62
+      "2023-04-07": 24
     }
   },
   {
@@ -197,10 +195,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.56%",
     "time": 2226,
-    "timeDay": 633,
-    "timeWeek": 1055,
-    "timeMonth": 1315,
-    "timeYear": 1676,
+    "timeDay": 592,
+    "timeWeek": 1030,
+    "timeMonth": 1312,
+    "timeYear": 1672,
     "dailyMinutesDown": {
       "2024-01-30": 1000,
       "2024-01-29": 540,
@@ -211,8 +209,7 @@
       "2023-06-04": 97,
       "2023-05-27": 145,
       "2023-05-07": 77,
-      "2023-04-30": 223,
-      "2023-04-06": 60
+      "2023-04-30": 223
     }
   },
   {
@@ -221,18 +218,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "collectedememoire",
     "status": "down",
-    "uptime": "56.20%",
+    "uptime": "56.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 752,
+    "time": 763,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-04": 41,
+      "2024-04-05": 40,
+      "2024-04-04": 1440,
       "2024-04-03": 1440,
       "2024-04-02": 1440,
       "2024-04-01": 1440,
@@ -595,8 +593,7 @@
       "2023-04-10": 1440,
       "2023-04-09": 1440,
       "2023-04-08": 1440,
-      "2023-04-07": 1440,
-      "2023-04-06": 1440
+      "2023-04-07": 1440
     }
   },
   {
@@ -610,11 +607,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "98.24%",
-    "time": 5246,
-    "timeDay": 1896,
-    "timeWeek": 2268,
-    "timeMonth": 2434,
-    "timeYear": 5397,
+    "time": 5242,
+    "timeDay": 2635,
+    "timeWeek": 2280,
+    "timeMonth": 2444,
+    "timeYear": 5393,
     "dailyMinutesDown": {
       "2024-03-26": 29,
       "2024-02-05": 161,
@@ -654,9 +651,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.58%",
-    "time": 3097,
-    "timeDay": 1553,
-    "timeWeek": 4561,
+    "time": 3093,
+    "timeDay": 845,
+    "timeWeek": 4527,
     "timeMonth": 3545,
     "timeYear": 2975,
     "dailyMinutesDown": {
@@ -672,8 +669,7 @@
       "2023-06-04": 26,
       "2023-05-27": 141,
       "2023-05-07": 26,
-      "2023-04-30": 223,
-      "2023-04-06": 59
+      "2023-04-30": 223
     }
   },
   {
@@ -687,11 +683,11 @@
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.56%",
-    "time": 2276,
-    "timeDay": 956,
-    "timeWeek": 3309,
-    "timeMonth": 3064,
-    "timeYear": 2288,
+    "time": 2275,
+    "timeDay": 657,
+    "timeWeek": 3294,
+    "timeMonth": 3041,
+    "timeYear": 2287,
     "dailyMinutesDown": {
       "2024-04-02": 21,
       "2024-01-30": 990,
@@ -706,8 +702,7 @@
       "2023-05-07": 76,
       "2023-04-30": 223,
       "2023-04-21": 20,
-      "2023-04-11": 16,
-      "2023-04-06": 58
+      "2023-04-11": 16
     }
   },
   {
@@ -716,16 +711,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rue-de-la-coloc",
     "status": "up",
-    "uptime": "87.72%",
+    "uptime": "87.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "78.10%",
-    "time": 5703,
-    "timeDay": 4014,
-    "timeWeek": 7878,
-    "timeMonth": 7766,
-    "timeYear": 5962,
+    "uptimeYear": "78.37%",
+    "time": 5698,
+    "timeDay": 1712,
+    "timeWeek": 7829,
+    "timeMonth": 7280,
+    "timeYear": 5960,
     "dailyMinutesDown": {
       "2024-03-03": 21,
       "2024-02-04": 16,
@@ -816,8 +811,7 @@
       "2023-04-10": 1440,
       "2023-04-09": 1440,
       "2023-04-08": 1440,
-      "2023-04-07": 1440,
-      "2023-04-06": 1440
+      "2023-04-07": 1440
     }
   },
   {
@@ -832,9 +826,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 101,
-    "timeDay": 81,
-    "timeWeek": 128,
-    "timeMonth": 97,
+    "timeDay": 64,
+    "timeWeek": 124,
+    "timeMonth": 96,
     "timeYear": 99,
     "dailyMinutesDown": {
       "2023-06-16": 22
