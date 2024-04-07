@@ -154,18 +154,19 @@
     "url": "$KJET",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "k-jet",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.50%",
-    "time": 5308,
+    "time": 5313,
     "timeDay": 19218,
     "timeWeek": 5698,
     "timeMonth": 7237,
     "timeYear": 5520,
     "dailyMinutesDown": {
+      "2024-04-07": 3,
       "2024-01-30": 999,
       "2024-01-29": 523,
       "2024-01-28": 87,
@@ -228,7 +229,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-06": 1410,
+      "2024-04-07": 38,
+      "2024-04-06": 1440,
       "2024-04-05": 1440,
       "2024-04-04": 1440,
       "2024-04-03": 1440,
@@ -591,8 +593,7 @@
       "2023-04-12": 1440,
       "2023-04-11": 1440,
       "2023-04-10": 1440,
-      "2023-04-09": 1440,
-      "2023-04-08": 1440
+      "2023-04-09": 1440
     }
   },
   {
@@ -608,7 +609,7 @@
     "uptimeYear": "98.24%",
     "time": 5235,
     "timeDay": 2499,
-    "timeWeek": 2353,
+    "timeWeek": 2411,
     "timeMonth": 2447,
     "timeYear": 5342,
     "dailyMinutesDown": {
@@ -709,19 +710,19 @@
     "url": "$COLOC",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rue-de-la-coloc",
-    "status": "up",
+    "status": "down",
     "uptime": "87.76%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "78.90%",
-    "time": 5724,
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "78.92%",
+    "time": 5720,
     "timeDay": 15482,
     "timeWeek": 6507,
     "timeMonth": 7574,
     "timeYear": 6025,
     "dailyMinutesDown": {
-      "2024-04-06": 4,
+      "2024-04-07": 1,
       "2024-03-03": 21,
       "2024-02-04": 16,
       "2024-01-30": 990,
@@ -809,8 +810,7 @@
       "2023-04-12": 1440,
       "2023-04-11": 1440,
       "2023-04-10": 1440,
-      "2023-04-09": 1440,
-      "2023-04-08": 1440
+      "2023-04-09": 1440
     }
   },
   {
