@@ -1,7 +1,7 @@
 url: $KURIOSITY
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-12-01T05:52:35.933Z
+status: up
+code: 200
+responseTime: 2060
+lastUpdated: 2024-12-01T06:44:21.498Z
 startTime: 2021-04-28T08:57:32.000Z
 generator: Upptime <https://github.com/upptime/upptime>
