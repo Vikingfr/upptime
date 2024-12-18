@@ -168,7 +168,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "collectedememoire",
     "status": "down",
-    "uptime": "45.30%",
+    "uptime": "45.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -179,7 +179,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-17": 1398,
+      "2024-12-18": 56,
+      "2024-12-17": 1440,
       "2024-12-16": 1440,
       "2024-12-15": 1440,
       "2024-12-14": 1440,
@@ -542,8 +543,7 @@
       "2023-12-23": 1440,
       "2023-12-22": 1440,
       "2023-12-21": 1440,
-      "2023-12-20": 1440,
-      "2023-12-19": 1440
+      "2023-12-20": 1440
     }
   },
   {
@@ -662,16 +662,17 @@
     "status": "up",
     "uptime": "89.92%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "58.18%",
-    "uptimeMonth": "90.17%",
-    "uptimeYear": "98.71%",
+    "uptimeWeek": "57.21%",
+    "uptimeMonth": "89.94%",
+    "uptimeYear": "98.69%",
     "time": 6407,
     "timeDay": 2387,
     "timeWeek": 8254,
     "timeMonth": 7440,
     "timeYear": 6291,
     "dailyMinutesDown": {
-      "2024-12-17": 1398,
+      "2024-12-18": 56,
+      "2024-12-17": 1440,
       "2024-12-16": 1440,
       "2024-12-15": 1377,
       "2024-12-01": 93,
