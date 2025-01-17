@@ -1,7 +1,7 @@
 url: $COLOC
-status: down
-code: 500
-responseTime: 1081
-lastUpdated: 2025-01-17T03:31:47.635Z
+status: up
+code: 200
+responseTime: 3940
+lastUpdated: 2025-01-17T11:25:54.761Z
 startTime: 2021-04-28T10:44:16.000Z
 generator: Upptime <https://github.com/upptime/upptime>
