@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.61%",
-    "time": 1786,
-    "timeDay": 1730,
-    "timeWeek": 1464,
-    "timeMonth": 1615,
-    "timeYear": 1820,
+    "time": 1788,
+    "timeDay": 2109,
+    "timeWeek": 1609,
+    "timeMonth": 1646,
+    "timeYear": 1823,
     "dailyMinutesDown": {
       "2025-01-12": 29,
       "2025-01-05": 68,
@@ -28,8 +28,7 @@
       "2024-06-02": 18,
       "2024-05-05": 20,
       "2024-03-03": 15,
-      "2024-01-30": 999,
-      "2024-01-29": 540
+      "2024-01-30": 999
     }
   },
   {
@@ -43,11 +42,11 @@
     "uptimeWeek": "99.23%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.80%",
-    "time": 1153,
-    "timeDay": 2746,
-    "timeWeek": 2315,
-    "timeMonth": 1961,
-    "timeYear": 1221,
+    "time": 1155,
+    "timeDay": 2315,
+    "timeWeek": 2411,
+    "timeMonth": 1984,
+    "timeYear": 1225,
     "dailyMinutesDown": {
       "2025-01-21": 78,
       "2024-12-08": 234,
@@ -76,11 +75,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.62%",
-    "time": 1989,
-    "timeDay": 1916,
-    "timeWeek": 1801,
-    "timeMonth": 2512,
-    "timeYear": 2029,
+    "time": 1990,
+    "timeDay": 1863,
+    "timeWeek": 1901,
+    "timeMonth": 2527,
+    "timeYear": 2024,
     "dailyMinutesDown": {
       "2025-01-12": 28,
       "2025-01-05": 68,
@@ -92,8 +91,7 @@
       "2024-09-01": 15,
       "2024-06-02": 18,
       "2024-05-05": 20,
-      "2024-01-30": 999,
-      "2024-01-29": 540
+      "2024-01-30": 999
     }
   },
   {
@@ -107,9 +105,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.19%",
     "uptimeYear": "99.37%",
-    "time": 5334,
-    "timeDay": 2597,
-    "timeWeek": 3963,
+    "time": 5331,
+    "timeDay": 1742,
+    "timeWeek": 4002,
     "timeMonth": 4715,
     "timeYear": 5179,
     "dailyMinutesDown": {
@@ -134,8 +132,7 @@
       "2024-05-05": 97,
       "2024-05-04": 23,
       "2024-04-07": 65,
-      "2024-01-30": 999,
-      "2024-01-29": 523
+      "2024-01-30": 999
     }
   },
   {
@@ -149,11 +146,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.62%",
-    "time": 1509,
-    "timeDay": 1091,
-    "timeWeek": 1150,
-    "timeMonth": 1782,
-    "timeYear": 1612,
+    "time": 1510,
+    "timeDay": 1136,
+    "timeWeek": 1223,
+    "timeMonth": 1797,
+    "timeYear": 1611,
     "dailyMinutesDown": {
       "2025-01-12": 27,
       "2025-01-05": 69,
@@ -164,8 +161,7 @@
       "2024-09-15": 80,
       "2024-06-02": 17,
       "2024-05-05": 19,
-      "2024-01-30": 1000,
-      "2024-01-29": 540
+      "2024-01-30": 1000
     }
   },
   {
@@ -174,7 +170,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "collectedememoire",
     "status": "down",
-    "uptime": "43.97%",
+    "uptime": "43.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -185,7 +181,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-27": 54,
+      "2025-01-28": 52,
+      "2025-01-27": 1440,
       "2025-01-26": 1440,
       "2025-01-25": 1440,
       "2025-01-24": 1440,
@@ -548,8 +545,7 @@
       "2024-02-02": 1440,
       "2024-02-01": 1440,
       "2024-01-31": 1440,
-      "2024-01-30": 1440,
-      "2024-01-29": 1440
+      "2024-01-30": 1440
     }
   },
   {
@@ -563,10 +559,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 3268,
-    "timeDay": 3230,
-    "timeWeek": 2783,
-    "timeMonth": 2555,
+    "time": 3263,
+    "timeDay": 2881,
+    "timeWeek": 2756,
+    "timeMonth": 2578,
     "timeYear": 2799,
     "dailyMinutesDown": {
       "2024-12-17": 18,
@@ -587,16 +583,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kuriosity-club",
     "status": "up",
-    "uptime": "98.52%",
+    "uptime": "98.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.70%",
     "uptimeYear": "97.46%",
-    "time": 2744,
-    "timeDay": 2296,
-    "timeWeek": 2036,
-    "timeMonth": 1708,
-    "timeYear": 2782,
+    "time": 2745,
+    "timeDay": 1947,
+    "timeWeek": 2210,
+    "timeMonth": 1728,
+    "timeYear": 2740,
     "dailyMinutesDown": {
       "2025-01-17": 473,
       "2025-01-12": 27,
@@ -619,8 +615,7 @@
       "2024-04-29": 1440,
       "2024-04-28": 1440,
       "2024-04-27": 46,
-      "2024-01-30": 989,
-      "2024-01-29": 539
+      "2024-01-30": 989
     }
   },
   {
@@ -635,10 +630,10 @@
     "uptimeMonth": "98.52%",
     "uptimeYear": "99.45%",
     "time": 2550,
-    "timeDay": 1123,
-    "timeWeek": 1669,
-    "timeMonth": 1860,
-    "timeYear": 2680,
+    "timeDay": 952,
+    "timeWeek": 1701,
+    "timeMonth": 1867,
+    "timeYear": 2669,
     "dailyMinutesDown": {
       "2025-01-17": 512,
       "2025-01-12": 27,
@@ -657,8 +652,7 @@
       "2024-05-05": 79,
       "2024-05-04": 17,
       "2024-04-02": 21,
-      "2024-01-30": 990,
-      "2024-01-29": 539
+      "2024-01-30": 990
     }
   },
   {
@@ -667,16 +661,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rue-de-la-coloc",
     "status": "up",
-    "uptime": "88.88%",
+    "uptime": "88.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "68.75%",
+    "uptimeMonth": "72.04%",
     "uptimeYear": "93.62%",
-    "time": 6444,
-    "timeDay": 4703,
-    "timeWeek": 4761,
-    "timeMonth": 6104,
-    "timeYear": 6251,
+    "time": 6449,
+    "timeDay": 4741,
+    "timeWeek": 5179,
+    "timeMonth": 6180,
+    "timeYear": 6191,
     "dailyMinutesDown": {
       "2025-01-17": 474,
       "2025-01-12": 26,
@@ -719,8 +713,7 @@
       "2024-04-07": 64,
       "2024-03-03": 21,
       "2024-02-04": 16,
-      "2024-01-30": 990,
-      "2024-01-29": 539
+      "2024-01-30": 990
     }
   },
   {
@@ -735,9 +728,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 104,
-    "timeDay": 100,
+    "timeDay": 114,
     "timeWeek": 117,
-    "timeMonth": 104,
+    "timeMonth": 105,
     "timeYear": 106,
     "dailyMinutesDown": {
       "2024-05-01": 32
