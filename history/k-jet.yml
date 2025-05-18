@@ -1,7 +1,7 @@
 url: $KJET
-status: up
-code: 200
-responseTime: 12499
-lastUpdated: 2025-05-18T06:53:50.478Z
+status: down
+code: 503
+responseTime: 644
+lastUpdated: 2025-05-18T20:42:07.004Z
 startTime: 2021-04-28T08:57:19.000Z
 generator: Upptime <https://github.com/upptime/upptime>
