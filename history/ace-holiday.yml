@@ -1,7 +1,7 @@
 url: $ACEHOLIDAY
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-05-23T23:47:30.777Z
+status: up
+code: 200
+responseTime: 5427
+lastUpdated: 2025-05-24T00:01:25.146Z
 startTime: 2021-04-28T08:57:22.000Z
 generator: Upptime <https://github.com/upptime/upptime>
