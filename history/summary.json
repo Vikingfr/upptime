@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.33%",
     "time": 2215,
-    "timeDay": 1674,
-    "timeWeek": 1424,
-    "timeMonth": 1431,
-    "timeYear": 2351,
+    "timeDay": 1673,
+    "timeWeek": 1430,
+    "timeMonth": 1440,
+    "timeYear": 2343,
     "dailyMinutesDown": {
       "2025-06-01": 284,
       "2025-05-25": 201,
@@ -52,8 +52,7 @@
       "2024-10-07": 105,
       "2024-10-06": 25,
       "2024-09-15": 81,
-      "2024-09-01": 16,
-      "2024-07-07": 15
+      "2024-09-01": 16
     }
   },
   {
@@ -67,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
-    "time": 1737,
-    "timeDay": 4409,
-    "timeWeek": 3078,
-    "timeMonth": 2695,
-    "timeYear": 1911,
+    "time": 1741,
+    "timeDay": 3003,
+    "timeWeek": 2925,
+    "timeMonth": 2701,
+    "timeYear": 1917,
     "dailyMinutesDown": {
       "2025-04-17": 64,
       "2025-04-14": 74,
@@ -101,10 +100,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.91%",
     "time": 2198,
-    "timeDay": 2102,
-    "timeWeek": 1618,
-    "timeMonth": 1574,
-    "timeYear": 2274,
+    "timeDay": 1873,
+    "timeWeek": 1601,
+    "timeMonth": 1589,
+    "timeYear": 2275,
     "dailyMinutesDown": {
       "2025-06-01": 269,
       "2025-05-25": 326,
@@ -159,11 +158,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.99%",
-    "time": 5529,
-    "timeDay": 4291,
-    "timeWeek": 2646,
-    "timeMonth": 2946,
-    "timeYear": 5594,
+    "time": 5532,
+    "timeDay": 3511,
+    "timeWeek": 2812,
+    "timeMonth": 2941,
+    "timeYear": 5576,
     "dailyMinutesDown": {
       "2025-06-01": 268,
       "2025-05-25": 357,
@@ -212,8 +211,7 @@
       "2024-09-15": 81,
       "2024-08-31": 21,
       "2024-08-04": 105,
-      "2024-08-03": 23,
-      "2024-07-07": 15
+      "2024-08-03": 23
     }
   },
   {
@@ -227,11 +225,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.46%",
-    "time": 1709,
-    "timeDay": 1083,
-    "timeWeek": 900,
-    "timeMonth": 888,
-    "timeYear": 1814,
+    "time": 1703,
+    "timeDay": 1053,
+    "timeWeek": 901,
+    "timeMonth": 894,
+    "timeYear": 1796,
     "dailyMinutesDown": {
       "2025-06-01": 267,
       "2025-05-25": 222,
@@ -274,7 +272,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "collectedememoire",
     "status": "down",
-    "uptime": "39.37%",
+    "uptime": "39.35%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -285,7 +283,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-06": 70,
+      "2025-07-07": 68,
+      "2025-07-06": 1440,
       "2025-07-05": 1440,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
@@ -648,8 +647,7 @@
       "2024-07-11": 1440,
       "2024-07-10": 1440,
       "2024-07-09": 1440,
-      "2024-07-08": 1440,
-      "2024-07-07": 1440
+      "2024-07-08": 1440
     }
   },
   {
@@ -663,11 +661,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 2710,
-    "timeDay": 2816,
-    "timeWeek": 2327,
-    "timeMonth": 2530,
-    "timeYear": 2695,
+    "time": 2711,
+    "timeDay": 2589,
+    "timeWeek": 2318,
+    "timeMonth": 2531,
+    "timeYear": 2696,
     "dailyMinutesDown": {
       "2025-04-17": 63,
       "2024-12-17": 18,
@@ -689,10 +687,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.13%",
     "time": 3084,
-    "timeDay": 1109,
-    "timeWeek": 998,
-    "timeMonth": 1144,
-    "timeYear": 2988,
+    "timeDay": 953,
+    "timeWeek": 968,
+    "timeMonth": 1128,
+    "timeYear": 2983,
     "dailyMinutesDown": {
       "2025-06-01": 267,
       "2025-05-25": 338,
@@ -745,11 +743,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.09%",
-    "time": 3626,
-    "timeDay": 1105,
-    "timeWeek": 989,
-    "timeMonth": 1134,
-    "timeYear": 3853,
+    "time": 3623,
+    "timeDay": 1142,
+    "timeWeek": 998,
+    "timeMonth": 1132,
+    "timeYear": 3806,
     "dailyMinutesDown": {
       "2025-06-01": 266,
       "2025-05-31": 16,
@@ -794,8 +792,7 @@
       "2024-10-07": 104,
       "2024-10-06": 97,
       "2024-09-15": 79,
-      "2024-08-18": 63,
-      "2024-07-07": 20
+      "2024-08-18": 63
     }
   },
   {
@@ -804,16 +801,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rue-de-la-coloc",
     "status": "up",
-    "uptime": "90.04%",
+    "uptime": "90.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "93.32%",
-    "time": 6182,
-    "timeDay": 2741,
-    "timeWeek": 2150,
-    "timeMonth": 2892,
-    "timeYear": 6379,
+    "time": 6181,
+    "timeDay": 2407,
+    "timeWeek": 2087,
+    "timeMonth": 2873,
+    "timeYear": 6352,
     "dailyMinutesDown": {
       "2025-06-01": 266,
       "2025-05-25": 348,
@@ -877,8 +874,7 @@
       "2024-10-05": 22,
       "2024-09-01": 74,
       "2024-08-18": 63,
-      "2024-08-04": 15,
-      "2024-07-07": 47
+      "2024-08-04": 15
     }
   },
   {
@@ -892,9 +888,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 111,
-    "timeDay": 111,
-    "timeWeek": 158,
+    "time": 110,
+    "timeDay": 114,
+    "timeWeek": 140,
     "timeMonth": 129,
     "timeYear": 110,
     "dailyMinutesDown": {}
