@@ -261,7 +261,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-12": 895,
+      "2025-12-12": 915,
       "2025-12-11": 1440,
       "2025-12-10": 1440,
       "2025-12-09": 1440,
@@ -843,19 +843,19 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google-to-check-system",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 171,
-    "timeDay": 315,
-    "timeWeek": 272,
-    "timeMonth": 201,
-    "timeYear": 192,
+    "timeDay": 238,
+    "timeWeek": 254,
+    "timeMonth": 198,
+    "timeYear": 191,
     "dailyMinutesDown": {
-      "2025-12-12": 1
+      "2025-12-12": 20
     }
   }
 ]
